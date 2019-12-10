@@ -103,7 +103,6 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
