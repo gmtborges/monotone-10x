@@ -1,0 +1,21 @@
+{
+    "name": "monotone-10x",
+    "displayName": "monotone-10x",
+    "description": "A monotone theme for the 10x Engineers who doesn't like colorful ones.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monotone 10x",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monotone 10x-color-theme.json"
+            }
+        ]
+    }
+}
