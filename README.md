@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "monotone-10x"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Monotone 10x
+## A monotone theme for the 10x Engineers who doesn't like colorful ones.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![JS](images/js-sample.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![JS](images/js-sample2.png)
+
+![HTML](images/html-sample.png)
+
+## Author
+
+[Gustavo Borges](https://twitter.com/gustavomtborges) 
 
 **Enjoy!**

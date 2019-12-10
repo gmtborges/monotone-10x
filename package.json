@@ -3,9 +3,20 @@
     "displayName": "Monotone 10x",
     "description": "A monotone theme for the 10x Engineers who doesn't like colorful ones.",
     "version": "0.0.1",
+    "author": "Gustavo Borges",
+    "publisher": "gustavomtborges",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gustavomtborges/monotone-10x"
+    },
     "engines": {
         "vscode": "^1.40.0"
     },
+    "keywords": [
+        "monotone",
+        "monochrome"
+    ],
     "categories": [
         "Themes"
     ],
