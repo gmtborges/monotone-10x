@@ -320,7 +320,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -461,7 +461,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -472,7 +472,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -482,7 +482,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -493,7 +493,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -518,7 +518,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#A9B7C6"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#7E8A95"
 			}
 		},
 		{
@@ -545,7 +545,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#7E8A95"
 			}
 		},
 		{
@@ -554,7 +554,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#7E8A95"
 			}
 		},
 		{
@@ -563,7 +563,7 @@
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#7E8A95"
 			}
 		},
 		{
@@ -572,7 +572,7 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#7E8A95"
 			}
 		},
 		{
