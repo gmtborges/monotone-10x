@@ -138,7 +138,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#A9B7C6"
+				"foreground": "#646F87"
 			}
 		},
 		{
@@ -192,7 +192,21 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#A9B7C6"
+			}
+		},
+		{
+			"name": "CSS Class and Support",
+			"scope": [
+				"source.css support.constant.property-value",
+				"source.sass support.constant.property-value",
+				"source.scss support.constant.property-value",
+				"source.less support.constant.property-value",
+				"source.stylus support.constant.property-value",
+				"source.postcss support.constant.property-value"
+			],
+			"settings": {
+				"foreground": "#646F87"
 			}
 		},
 		{
@@ -260,7 +274,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"fontStyle": "italic bold",
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -270,7 +284,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"fontStyle": "italic bold",
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
