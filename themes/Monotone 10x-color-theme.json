@@ -4,7 +4,6 @@
 	"colors": {
 		"editor.background": "#2B2B2B",
 		"editor.foreground": "#A9B7C6",
-		"activityBarBadge.background": "#A9B7C6",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -50,11 +49,20 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword Operator",
 			"scope": [
-				"keyword",
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Keyword Control, Storage",
+			"scope": [
+				"keyword.control",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -64,7 +72,6 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
