@@ -4,7 +4,9 @@
 	"colors": {
 		"editor.background": "#2B2B2B",
 		"editor.foreground": "#A9B7C6",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editorBracketMatch.border": "#2B2B2B",
+		"editorBracketMatch.background": "#424242"
 	},
 	"tokenColors": [
 		{
