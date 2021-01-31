@@ -16,6 +16,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#546E7A"
 			}
 		},
@@ -66,6 +67,7 @@
 				"storage.modifier",
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -96,6 +98,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -241,6 +244,7 @@
 				"entity.name.method.js"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -279,6 +283,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -288,6 +293,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},
@@ -354,6 +360,7 @@
 				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#82AAFF"
 			}
 		},
@@ -363,6 +370,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
+				"fontStyle": "italic",
 				"foreground": "#FFFFFF"
 			}
 		},

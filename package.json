@@ -2,7 +2,7 @@
     "name": "monotone-10x",
     "displayName": "Monotone 10x",
     "description": "A monotone theme for the 10x Engineers who doesn't like colorful ones.",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "author": "Gustavo Borges",
     "publisher": "gustavomtborges",
     "icon": "icon.png",
@@ -26,6 +26,11 @@
                 "label": "Monotone 10x",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monotone 10x-color-theme.json"
+            },
+            {
+                "label": "Monotone 10x - Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monotone 10x-color-theme-italic.json"
             }
         ]
     }
